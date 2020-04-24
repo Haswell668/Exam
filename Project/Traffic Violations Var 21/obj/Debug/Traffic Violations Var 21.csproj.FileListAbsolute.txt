@@ -1,0 +1,13 @@
+C:\Users\vovas\source\repos\Traffic Violations\Traffic Violations Var 21\bin\Debug\Traffic Violations Var 21.exe.config
+C:\Users\vovas\source\repos\Traffic Violations\Traffic Violations Var 21\bin\Debug\Traffic Violations Var 21.exe
+C:\Users\vovas\source\repos\Traffic Violations\Traffic Violations Var 21\bin\Debug\Traffic Violations Var 21.pdb
+C:\Users\vovas\source\repos\Traffic Violations\Traffic Violations Var 21\obj\Debug\Traffic Violations Var 21.csprojAssemblyReference.cache
+C:\Users\vovas\source\repos\Traffic Violations\Traffic Violations Var 21\obj\Debug\Traffic_Violations_Var_21.Properties.Resources.resources
+C:\Users\vovas\source\repos\Traffic Violations\Traffic Violations Var 21\obj\Debug\Traffic Violations Var 21.csproj.GenerateResource.cache
+C:\Users\vovas\source\repos\Traffic Violations\Traffic Violations Var 21\obj\Debug\Traffic Violations Var 21.csproj.CoreCompileInputs.cache
+C:\Users\vovas\source\repos\Traffic Violations\Traffic Violations Var 21\obj\Debug\Traffic Violations Var 21.exe
+C:\Users\vovas\source\repos\Traffic Violations\Traffic Violations Var 21\obj\Debug\Traffic Violations Var 21.pdb
+C:\Users\vovas\source\repos\Traffic Violations\Traffic Violations Var 21\bin\Debug\BD_TrafficViolations.mdf
+C:\Users\vovas\source\repos\Traffic Violations\Traffic Violations Var 21\bin\Debug\BD_TrafficViolations_log.ldf
+C:\Users\vovas\source\repos\Traffic Violations\Traffic Violations Var 21\obj\Debug\Traffic_Violations_Var_21.FormTrafficViolations.resources
+C:\Users\vovas\source\repos\Traffic Violations\Traffic Violations Var 21\obj\Debug\Traffic_Violations_Var_21.FormAddFine.resources
